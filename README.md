@@ -1,4 +1,4 @@
-## Oi! Ta fazenu o que aqui? Aproveita e segue o pai 😉
+## Oi! tá fazenu o que aqui? Aproveita e segue o pai 😉
 <div align="center">
   <a href="https://github.com/felmateos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felmateos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
