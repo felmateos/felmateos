@@ -19,6 +19,6 @@
  
 <div>
  
- ![snake gif](https://github.com/felmateos/felmateos/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/felmateos/felmateos/blob/output/github-contribution-grid-snake.gif)
  
 </div>
