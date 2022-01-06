@@ -1,4 +1,9 @@
-## Oi! Tá fazenu o que aqui? Aproveita e segue o pai 😉
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=c228c2&lines=Oie!+👋;Tá+fazendo+o+que+aqui?;Aproveita+e+segue+o+pai+😉!&center=true&size=25">
+  </a>
+</h1>
 <div align="center">
   <a href="https://github.com/felmateos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felmateos&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=c228c2&icon_color=c228c2"/>
