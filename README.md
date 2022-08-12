@@ -23,8 +23,8 @@
   
   ##
   
-  ### "Com grandes poderes vêm grandes calvícies"
-  #### ~Calvo, Vegeta
+  ### "Com grandes poderes vêm grandes calvícies."
+  #### ~Calvo, Vegeta.
  
 <div>
  
