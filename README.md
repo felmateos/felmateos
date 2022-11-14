@@ -30,7 +30,7 @@
  
   <br />
   
-  ## 📫 Quer falar comigo?
+  <img src="./assets/gif/handshake.gif" width ="25"> <b>Bora se conectar?</b>
   
   
   
