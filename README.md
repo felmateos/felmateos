@@ -6,7 +6,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felmateos&layout=compact&langs_count=7&theme=github_dark&hide_border=true&title_color=f02afc"/>
 </div>
   
-## <b>Conhecimentos</b>
+## <b>Skills</b>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
@@ -24,12 +24,12 @@
   
   ##
   
-  ### "Com grandes poderes vêm grandes calvícies."
-  #### ~Calvo, Vegeta.
+  ### "With great power comes great baldness"
+  #### ~Bald, Vegeta.
  
   <br />
   
-  ## <b>Bora se conectar?</b>
+  ## <b>Let's connect?</b>
   <div float="left">
   <a href="https://linkedin.com/in/felmateos">
 <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
