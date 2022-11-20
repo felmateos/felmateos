@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c228c2&height=300&section=header&text=felmateos&fontSize=90&fontColor=0d1117" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c228c2&height=270&section=header&text=felmateos&fontSize=90&fontColor=0d1117" />
 
 <div align="center">
   <a href="https://github.com/felmateos">
@@ -47,4 +47,4 @@
 ![snake gif](https://github.com/felmateos/felmateos/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c228c2&height=300&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c228c2&height=270&section=footer" />
