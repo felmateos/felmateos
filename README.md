@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f02afc&height=270&section=header&text=felmateos&fontSize=90&fontColor=0d1117" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f02afc&height=270&section=header&fontAlignY=35&text=felmateos&desc=Front-end,%20Android%20and%20UI\UX%20Designer&fontSize=90&fontColor=0d1117" />
 
 <div align="center">
   <a href="https://github.com/felmateos">
