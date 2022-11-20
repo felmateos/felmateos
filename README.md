@@ -1,7 +1,9 @@
 
 <h1 align="center">
+<b>Oie, eu me chamo Felipe</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=c228c2&lines=Oie!+👋;Tá+fazendo+o+que+aqui?;Aproveita+e+segue+o+pai+😉!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=c228c2&size=25&center=true&vCenter=true&width=600&height=100&lines=Tá+fazendo+o+que+aqui?;Aproveita+e+segue+o+pai+😉!&center=true&size=25">
   </a>
 </h1>
 <div align="center">
@@ -23,7 +25,7 @@
   <img align="center" alt="Felps-vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Felps-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Felps-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="right" alt="Felps-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/88856792?v=4">
+  <img align="right" alt="Felps-pic" height="150" src="https://avatars.githubusercontent.com/u/88856792?v=4">
 </div>
   
   ##
