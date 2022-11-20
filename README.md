@@ -1,9 +1,9 @@
 
 <h1 align="center">
-<b>Oie, eu me chamo Felipe</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<b>Oie! Me chamo Felipe </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=c228c2&size=25&center=true&vCenter=true&width=600&height=100&lines=Tá+fazendo+o+que+aqui?;Aproveita+e+segue+o+pai+😉!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=c228c2&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-end+developer+💻;Android+developer+📱;Logo/Interface+designer+🖌️">
   </a>
 </h1>
 <div align="center">
@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felmateos&layout=compact&langs_count=7&theme=github_dark&hide_border=true&title_color=c228c2"/>
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b margin-left="10px">Conhecimentos</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b margin-left="10px"> Conhecimentos</b>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felps-Hs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
