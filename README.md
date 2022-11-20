@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c228c2&height=270&section=header&text=felmateos&fontSize=90&fontColor=0d1117" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f02afc&height=270&section=header&text=felmateos&fontSize=90&fontColor=0d1117" />
 
 <div align="center">
   <a href="https://github.com/felmateos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felmateos&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=c228c2&icon_color=c228c2"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felmateos&layout=compact&langs_count=7&theme=github_dark&hide_border=true&title_color=c228c2"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felmateos&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=f02afc&icon_color=f02afc"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felmateos&layout=compact&langs_count=7&theme=github_dark&hide_border=true&title_color=f02afc"/>
 </div>
   
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b margin-left="50px"> Conhecimentos</b>
@@ -47,4 +47,4 @@
 ![snake gif](https://github.com/felmateos/felmateos/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c228c2&height=270&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f02afc&height=270&section=footer" />
