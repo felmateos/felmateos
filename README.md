@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/felmateos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felmateos&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=f02afc&icon_color=f02afc"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felmateos&layout=compact&langs_count=7&theme=github_dark&hide_border=true&title_color=f02afc"/>
+    <img height="180em" src="https://felmateos-github-readme-status.vercel.app/api?username=felmateos&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=f02afc&icon_color=f02afc"/>
+    <img height="180em" src="https://felmateos-github-readme-status.vercel.app/api/top-langs/?username=felmateos&layout=compact&langs_count=7&theme=github_dark&hide_border=true&title_color=f02afc"/>
 </div>
   
 ## <b>Skills</b>
