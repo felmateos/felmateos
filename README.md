@@ -24,8 +24,8 @@
   
   ##
   
-  ### "With great power comes great baldness"
-  #### ~Bald, Vegeta.
+  ### "Oh well... Whatever happens, happens."
+  #### ~Spiegel, Spike.
  
   <br />
   
