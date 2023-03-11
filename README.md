@@ -1,8 +1,8 @@
 <a href="https://github.com/felmateos#gh-dark-mode-only">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f02afc&height=270&section=header&fontAlignY=35&text=felmateos&desc=AI,%20Data-Science,%20Front-end,%20Android%20and%20UI\UX%20Design&fontSize=90&fontColor=0d1117#gh-dark-mode-only" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f02afc&height=270&section=header&fontAlignY=35&text=felmateos&desc=AI,%20Data-Science,%20Front-end,%20Android%20and%20UI\UX%20Design&fontSize=90&fontColor=942994#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/felmateos#gh-light-mode-only">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=270&section=header&fontAlignY=35&text=felmateos&desc=AI,%20Data-Science,%20Front-end,%20Android%20and%20UI\UX%20Design&fontSize=90&fontColor=ffffff#gh-light-mode-only" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f02afc&height=270&section=header&fontAlignY=35&text=felmateos&desc=AI,%20Data-Science,%20Front-end,%20Android%20and%20UI\UX%20Design&fontSize=90&fontColor=942994#gh-light-mode-only" />
 </a>
 
 <div align="center">
@@ -79,5 +79,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=f02afc&height=200&section=footer" />
 </a>
 <a href="https://github.com/felmateos#gh-light-mode-only">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=200&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f02afc&height=200&section=footer" />
 </a>
