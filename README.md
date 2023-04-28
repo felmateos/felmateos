@@ -36,14 +36,14 @@
   <img align="right" alt="Felmateos-profile-picture" height="150" src="https://avatars.githubusercontent.com/u/88856792?v=4">
 </div>
   
-  ##
+##
+
+### "Oh well... Whatever happens, happens."
+#### ~Spiegel, Spike.
+
+<br />
   
-  ### "Oh well... Whatever happens, happens."
-  #### ~Spiegel, Spike.
- 
-  <br />
-  
-  ## <b>Currently reading</b>
+## <b>Currently reading</b>
   
   - <a href="https://www.bibliaonline.com.br/acf">Bíblia</a> (Bible)
   - <a href="https://www.amazon.com.br/Intelig%C3%AAncia-Artificial-Peter-Norvig/dp/8535237011">Inteligência Artificial</a> (Artificial Intelligence) por Peter Norvig
@@ -51,26 +51,28 @@
   - <a href="https://github.com/felmateos">Neurociência para líderes: Como liderar pessoas e empresas para o sucesso</a> (Neuroscience for Leaders: How to Lead People and Companies to Success
 ) por Nikolaos Dimitriadis, Alexandros Psychogios e Marcia Men
   
-  <br />
+<br />
   
-  ## <b>How to reach out to me</b>
-  <div float="left">
+## <b>How to reach out to me</b>
+<div float="left">
   <a href="https://beacons.ai/felmateos">
     <img src="https://img.shields.io/badge/meus%20links-%2300acee.svg?color=41E760&style=for-the-badge&logo=linktree&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
   </a>
   <a href="https://twitter.com/felmateos">
     <img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
+  </a>
   <a href="https://linkedin.com/in/felmateos">
     <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
   </a>
-  </a>
   <a href="https://medium.com/@felmateos">
-    <img src="https://img.shields.io/badge/medium-%2300acee.svg?color=000000&style=for-the-badge&logo=medium&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
+    <img src="https://img.shields.io/badge/medium-%2300acee.svg?color=000000&style=for-the-badge&logo=medium&logoColor=white" alt=medium style="margin-bottom: 5px;"/>
+  </a>
   <a href="mailto:felmateos@usp.br">
-  <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
+    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://dev.to/felmateos">
+    <img src="https://img.shields.io/badge/dev-%2300acee.svg?color=cc26d8&style=for-the-badge&logo=d&logoColor=white" alt=dev style="margin-bottom: 5px;"/>
+  </a>
 </div>
   
 <div>
