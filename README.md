@@ -45,11 +45,9 @@
   
 ## <b>Currently reading</b>
   
-  - <a href="https://www.bibliaonline.com.br/acf">Bíblia</a> (Bible)
-  - <a href="https://www.amazon.com.br/Intelig%C3%AAncia-Artificial-Peter-Norvig/dp/8535237011">Inteligência Artificial</a> (Artificial Intelligence) por Peter Norvig
-  - <a href="https://www.amazon.com.br/m%C3%ADtico-homem-m%C3%AAs-ensaios-engenharia-software/dp/8550802530">O Mítico Homem Mês</a> (The Mythical Man-Month) por Frederick P. Brooks Jr.
-  - <a href="https://github.com/felmateos">Neurociência para líderes: Como liderar pessoas e empresas para o sucesso</a> (Neuroscience for Leaders: How to Lead People and Companies to Success
-) por Nikolaos Dimitriadis, Alexandros Psychogios e Marcia Men
+  - <a href="https://www.bibliaonline.com.br/acf">Bíblia</a>
+  - <a href="https://www.amazon.com.br/Intelig%C3%AAncia-Artificial-Peter-Norvig/dp/8535237011">Inteligência Artificial</a>
+  - <a href="https://www.amazon.com.br/sabedoria-S%C3%AAneca-Edi%C3%A7%C3%A3o-Ensaios-completos/dp/6587435548/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=a+sabedoria+de+seneca+excelsior&sr=8-2">A sabedoria de Sêneca</a>
   
 <br />
   
