@@ -77,7 +77,7 @@
   
 <div>
  
-![snake gif](https://github.com/felmateos/felmateos/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/felmateos/felmateos/output/github-contribution-grid-snake-dark.svg)
  
 </div>
 
