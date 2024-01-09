@@ -45,14 +45,6 @@
 
 <br />
   
-## <b>Currently reading</b>
-  
-  - <a href="https://www.bibliaonline.com.br/acf">Bíblia</a>
-  - <a href="https://www.amazon.com.br/Intelig%C3%AAncia-Artificial-Peter-Norvig/dp/8535237011">Inteligência Artificial</a>
-  - <a href="https://www.amazon.com.br/sabedoria-S%C3%AAneca-Edi%C3%A7%C3%A3o-Ensaios-completos/dp/6587435548/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=a+sabedoria+de+seneca+excelsior&sr=8-2">A sabedoria de Sêneca</a>
-  
-<br />
-  
 ## <b>How to reach out to me</b>
 <div float="left">
   <a href="https://beacons.ai/felmateos">
