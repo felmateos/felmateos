@@ -44,6 +44,12 @@
 #### ~Spiegel, Spike.
 
 <br />
+
+## <b>Check out my resume!</b>
+
+Available here: [https://github.com/felmateos/USP/blob/main/RESUME/Curriculo.pdf](https://github.com/felmateos/USP/blob/main/RESUME/Curriculo.pdf)
+
+<br />
   
 ## <b>How to reach out to me</b>
 <div float="left">
