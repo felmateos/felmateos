@@ -32,7 +32,7 @@
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Python3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
-  <img align="right" alt="Felmateos-profile-picture" height="150" src="https://avatars.githubusercontent.com/u/88856792?v=4">
+  <img align="right" alt="Felmateos-profile-picture" height="150" max-height="150" src="https://avatars.githubusercontent.com/u/88856792?v=4">
 </div>
   
 ##
